@@ -1,0 +1,2 @@
+1. Get jQuery Tools Scrollable
+2. $('.scrollable').scrollable().autoheight();
